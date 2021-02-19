@@ -1,1 +1,3 @@
-# Data-Strructures-and-algorithms
+# Data-Structures-and-algorithms
+
+BIT MAGIC
